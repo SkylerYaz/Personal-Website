@@ -445,8 +445,8 @@ export default function PortfolioWebsite() {
         <section id="about" className="mx-auto max-w-6xl px-6 py-20 sm:px-8 lg:px-10">
           <SectionHeading
             eyebrow="About"
-            title="A clear introduction to who I am and where I’m headed"
-            description="This section is written to feel personal, direct, and credible for recruiters, hiring managers, and professional connections."
+            title="Data science with a focus on real-world problem solving"
+            description="I combine technical skills, business understanding, and hands-on experience to create solutions that are useful, clear, and actionable."
           />
           <div className="mt-10 grid gap-6 lg:grid-cols-[1.2fr_0.8fr]">
             <Card className="rounded-3xl border-stone-200/70 bg-white/70 shadow-sm dark:border-stone-800 dark:bg-stone-900/60">

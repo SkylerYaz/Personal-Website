@@ -17,9 +17,9 @@ const profile = {
   coOpSummary:
     "In my current co-op, I work in client-to-vendor IT relations while supporting team workflow improvements and collecting and analyzing incident-related data. I created an AI-driven case notification workflow that reads incoming case emails, extracts key details, and sends structured Teams messages for better visibility. I also built an automated logging process for cases coming through email, helping improve tracking, consistency, and follow-up across the workflow.",
   email: "skyler.yazzie@icloud.com",
-  linkedin: "PASTE_YOUR_LINKEDIN_HERE",
-  github: "PASTE_YOUR_GITHUB_HERE",
-  resume: "#",
+  linkedin: "https://www.linkedin.com/in/skyler-yazzie-004162254",
+  github: "https://github.com/SkylerYaz",
+  resume: "/Resume Skyler.pdf",
 };
 
 const skills = {
